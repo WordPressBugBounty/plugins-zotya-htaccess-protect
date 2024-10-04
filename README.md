@@ -1,0 +1,1 @@
+# plugins-zotya-htaccess-protect
